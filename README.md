@@ -11,6 +11,7 @@ las filas y columnas, con el comando linespace para calcular el valor de la dens
 
 
 Ajuste para filas X = [9.90484381 3.29944288]
+
 Ajusute para columnas Y = [15.0794609   6.02693775]
 
 
