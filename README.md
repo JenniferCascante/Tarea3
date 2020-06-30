@@ -11,6 +11,9 @@ las filas y columnas, con el comando linspace para calcular el valor de la densi
 se graficaron las curvas de dichos datos para poder indetificar el modelo de distribución usual estudiado: rayleigh, exponencial, uniforme o normal (campana gaussiana),
 tanto para las filas como para las columnas las gráficas se asemejaron a la gaussiana, por lo tanto esta fue la función que se definió, para poder calcular la mejor curva de ajusta al usar el comando curve_fit.
 
+![Y](1.png)
+![Y](2.png)
+
 Ajuste para filas X = [9.90484381 3.29944288]
 
 Ajusute para columnas Y = [15.0794609   6.02693775]
@@ -37,8 +40,16 @@ En este caso como el coeficiente dio un valor muy cercano a cero, se puede afirm
 
 
 Punto 4: Graficar las funciones de densidad marginales (2D), la función de densidad conjunta (3D).
+
 Gráficas 2D:
+![Y](1.png)
+![Y](2.png)
+Estas imágenes corresponde a las curvas después de realizarse el ajuste.
+![Y](3.png)
+![Y](4.png)
 
 Gráficas 3D:
+Imagen de la densidad conjunta en 3D:
+![Y](5.png)
 
 
