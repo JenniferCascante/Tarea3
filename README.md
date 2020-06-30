@@ -42,8 +42,8 @@ En este caso como el coeficiente dio un valor muy cercano a cero, se puede afirm
 Punto 4: Graficar las funciones de densidad marginales (2D), la función de densidad conjunta (3D).
 
 Gráficas 2D:
-![Y](1.png)
-![Y](2.png)
+![Tarea3](1.png)
+![Tarea3](2.png)
 Estas imágenes corresponde a las curvas después de realizarse el ajuste.
 ![Y](3.png)
 ![Y](4.png)
